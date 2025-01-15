@@ -1,0 +1,72 @@
+header{
+    background-color: rgb(51, 152, 152);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.name{
+    
+    color: aliceblue;
+    
+}
+.image{
+    background-image: url(1-1.jpg);
+    width: 400px;
+    height: 400px;
+    border-radius: 60px;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+.con{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   font-size: larger;
+   font-weight: 400;
+   padding-top: 30px;
+}
+body{
+    background-color: rgb(206, 216, 216);
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+.i1{
+    background-color: rgb(186, 215, 215);
+    height:400px;
+    width: 300px;
+    padding-top: 30px;
+    background-image: url(carbon-steel.jpg);
+}
+.i2{
+    
+    height:400px;
+    width: 300px;
+    padding-top: 30px;
+    background-image: url(Non-Ferrous-Steel-Scrap.jpg);
+}
+.i3{
+    
+    height:400px;
+    width: 300px;
+    padding-top: 30px;
+    background-image: url(1-2.jpg);
+}
+.images{
+    background-color:rgb(233, 244, 244);
+}
+
+
+.box{
+    padding-left: 30px;
+    padding-right: 30px;
+    width:300px;
+    background-color: rgb(206, 216, 216);
+}
+.contact p{
+    font-size: larger;
+}
+.box:hover{
+    opacity: 0.7;
+}
